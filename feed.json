@@ -1,0 +1,16 @@
+[
+{
+  "uid": "message_number_1_20180823",
+  "updateDate": "2018-08-23T00:00:00.0Z",
+  "titleText": "Tremendo Beta en la semana 3 de Agosto",
+  "mainText": "Hola. Esto es un ejemplo acerca de lo que puede decir tu aplicación",
+  "redirectionUrl": "hatethatcode.com"
+},
+{
+  "uid": "message_number_2_20180823",
+  "updateDate": "2018-08-23T00:00:00.0Z",
+  "titleText": "Tremendo Beta en la semana 3 de Agosto",
+  "mainText": "Hola. Esto es un ejemplo acerca de lo que puede decir tu aplicación",
+  "redirectionUrl": "hatethatcode.com"
+}
+]
