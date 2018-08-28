@@ -1,5 +1,5 @@
 ---
-title: Ida entdeckt Hamburg
+title: 'Teil I: Ida schmiedet einen Plan'
 date: 2018-08-27T16:24:50.649Z
 ---
 Das ist die Geschichte von Ida. Sie lebt mit Mama, Papa und ihrer großen Schwester in Winterhude. Ida hat raspelkurze Haare, große Knopfaugen und einen kugelrunden Bauch. Warum ihr Bauch so dick ist? Na, weil Franzbrötchen am allerbesten schmecken! Oft klettert Ida auf die Fensterbank in ihrem Zimmer. Dann sieht sie Hunde, die ihre Herrchen in den Stadtpark ziehen. Oder Kinder, die mit Sandeimer und Matschhose zum Spielplatz rennen. Oder schlendernde Spaziergänger, die ein bisschen aussehen wie Oma und Opa.
