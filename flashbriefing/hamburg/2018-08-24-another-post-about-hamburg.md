@@ -1,5 +1,5 @@
 ---
-title: Ida und die Alster.
+title: 'Teil II: Ida und die Alster'
 date: 2018-08-24T00:11:02.372Z
 ---
 Das ist die Geschichte von einem kleinen Hamburger Mädchen, das Matrosin werden wollte.
